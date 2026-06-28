@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-beste-an-mir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Das Beste an mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-beste-an-mir/) |
+| **Get License** | [Request Licensing for Das Beste an mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-beste-an-mir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f3438b47fbfaa80939ba752b9d02e029b06997b604ab4d917d90a287e6a58109` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

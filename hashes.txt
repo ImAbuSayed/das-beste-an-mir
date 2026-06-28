@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Das Beste an mir
+
+This log tracks the cryptographic history and versioning for the song **Das Beste an mir** (das-beste-an-mir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T12:51:54.250855 | `v1` | `f3438b47fbfaa80939ba752b9d02e029b06997b604ab4d917d90a287e6a58109` | `2a3dded202616c1373ee9a514616e6a1a8bea9556785126c58433636b24cb418` | `2026-06-28_das-beste-an-mir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
