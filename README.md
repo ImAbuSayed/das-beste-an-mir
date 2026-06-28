@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-beste-an-mir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Das Beste an mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-beste-an-mir/) |
+| **Get License** | [Obtain a Music License for Das Beste an mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-beste-an-mir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die ganze Nacht dreh' ich Runden durch die City für dich
+> Neonlicht auf der Haut, Babe, du bist das Beste an mir
+> Dein Vibe ist pure Magic, wenn sich unsre Blicke treffen
+> Lass die Welt da draußen warten, heute Nacht bleib' ich hier
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
